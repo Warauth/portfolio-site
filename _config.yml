@@ -34,8 +34,8 @@ plugins:
   - jekyll-feed
 
 navigation:
-  title: Home
-  url: /index.md
+  - title: Home
+    url: /index.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
