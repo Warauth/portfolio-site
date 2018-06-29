@@ -16,7 +16,7 @@
 title: Test Blog Please Ignore
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, I'm Nicholas Cothran, and welcome to my portfolio!
+  Hello, I'm Nicholas Cothran. Thank you for taking the time to view my portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com "http://nicholascothran.me"
 twitter_username: jekyllrb
