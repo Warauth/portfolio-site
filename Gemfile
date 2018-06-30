@@ -30,4 +30,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "bootstrap-sass", "~> 3.3"
 
+gem 'sass-rails', '>= 3.2'
 #gem "bootstrap", "4.1.1"

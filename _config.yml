@@ -27,7 +27,7 @@ markdown: kramdown
 theme:
 
 sass:
-  sass_dir: ./_scss
+  sass_dir: bower_components/bootstrap-sass/assets/stylesheets
 
 #theme: jekyll-theme-hacker
 
