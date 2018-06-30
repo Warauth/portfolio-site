@@ -2,6 +2,7 @@
 layout: default
 title: Home
 permalink: /home/
+redirect_from: "/"
 ---
 
 # Hello! My name is Nicholas Cothran. Welcome to my portfolio!

@@ -302,6 +302,7 @@ DEPENDENCIES
   bootstrap-sass (~> 3.3)
   github-pages
   jekyll-feed (~> 0.6)
+  jekyll-redirect-from (~> 0.1)
   sass-rails (>= 3.2)
   tzinfo-data
 
